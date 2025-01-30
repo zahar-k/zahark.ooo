@@ -1,0 +1,24 @@
+ski:
+    title:      Zahar is on vacation
+    header:     Zahar is on vacation
+    image:
+        path:   img/skivacation.webp
+        alt:    skiing in apls
+    message:    I have hit the slopes with the grace of a dancing penguin—majestic in spirit, but occasionally at war with gravity. The Alps have never seen such a mix of fearless speed and accidental snow plowing! 😆🎿❄️
+
+office:
+    title:  Zahar is NOT on vacation
+    header: Zahar is NOT on vacation
+    image:
+        path:   img/workoffice.webp
+        alt:    Working in office
+    message:    Sadly, I’m not out of office, sipping a drink on a beach. Nope, I’m here, working hard... or hardly working? Let’s call it multitasking! 😅
+
+errands:
+    title:      Zahar is running errands
+    header:     Zahar is running errands
+    image:
+        path:   img/runningerrands.webp
+        alt:    skiing in apls
+    message:    Juggling shopping bags, a to-do list, and a questionable life choice to do it all in one day—multitasking at its finest! 😄
+
