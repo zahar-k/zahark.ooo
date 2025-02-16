@@ -22,3 +22,11 @@ errands:
         alt:    skiing in apls
     message:    Juggling shopping bags, a to-do list, and a questionable life choice to do it all in one day—multitasking at its finest! 😄
 
+wellness:
+    title:      Zahar is on wellness day
+    header:     Zahar is on wellness day
+    image:
+        path:   img/Wellness.webp
+        alt:    Relax, recharge, repeat!
+    message:    Ah, Wellness Day—when the company reminds you to relax, just before sending you back to 100 unread emails and a calendar full of meetings!
+
