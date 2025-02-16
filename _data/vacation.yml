@@ -28,5 +28,5 @@ wellness:
     image:
         path:   img/Wellness.webp
         alt:    Relax, recharge, repeat!
-    message:    Wellness Day: A perfect time to relax—until you remember all the work waiting for you tomorrow! 😆
+    message:    "Wellness Day: A perfect time to relax—until you remember all the work waiting for you tomorrow! 😆"
 
