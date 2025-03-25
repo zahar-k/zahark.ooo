@@ -30,3 +30,11 @@ wellness:
         alt:    Relax, recharge, repeat!
     message:    "Wellness Day: A perfect time to relax—until you remember all the work waiting for you tomorrow! 😆"
 
+illness:
+    title:      Zahar is not feeling good
+    header:     Zahar is not feeling good
+    image:
+        path:   img/illness.webp
+        alt:    Sick, cozy, tired.
+    message:    "I'm so sick 🤒 that even my blanket is trying to escape 🏃‍♂️💨. At this point, the thermometer deserves a medal 🏅 for sticking with me!"
+
