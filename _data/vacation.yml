@@ -37,4 +37,11 @@ illness:
         path:   img/illness.webp
         alt:    Sick, cozy, tired.
     message:    "I'm so sick 🤒 that even my blanket is trying to escape 🏃‍♂️💨. At this point, the thermometer deserves a medal 🏅 for sticking with me!"
+passover:
+    title:      Zahar is on Passover vacation
+    header:     Zahar is on Passover vacation
+    image:
+        path:   img/passover.webp
+        alt:    Gone to fight Pharaoh and carbs
+    message:    "Currently parting the Red Sea 🌊... of emails 📧. Back after Passover with less chametz 🍞🚫 and more replies 💬!"
 
