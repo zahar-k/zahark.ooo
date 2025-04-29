@@ -44,4 +44,11 @@ passover:
         path:   img/passover.png
         alt:    Gone to fight Pharaoh and carbs
     message:    "Currently parting the Red Sea 🌊... of emails 📧. Back after Passover with less chametz 🍞🚫 and more replies 💬!"
+independence:
+    title:      Zahar is on Independence day holiday
+    header:     Zahar is on Independence day holiday
+    image:
+        path:   img/independence.png
+        alt:    "Celebrating Israel's 77th Independence Day — back soon after the falafel and fireworks!"
+    message:    "Out of office for Israel’s 77th birthday! Currently flipping kebabs and dodging fireworks — back after Yom Ha’atzmaut! 🥙🎉🔥🇮🇱"
 
